@@ -29,3 +29,7 @@ node bot.js
 ## To-do
 
  - Check timestamp and delete messages older than X days
+ - Delete more than 100 messages at once
+ - Less permissions would be better :/
+ - Properly support OAuth so that users don't have to add the bot like in the usage above
+ - Make the bot asynchronous so that it can work in more than one channel at a time
