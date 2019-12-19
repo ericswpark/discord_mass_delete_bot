@@ -1,0 +1,13 @@
+{
+  "name": "mass-delete-bot",
+  "version": "1.0.0",
+  "description": "Bot to mass-delete old messages",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eric Park",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
