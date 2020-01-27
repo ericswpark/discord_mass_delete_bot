@@ -25,7 +25,7 @@ Why full admin permissions? I didn't have time to properly narrow down which per
 }
 ```
 
- - Instaqll dependencies and start the app:
+ - Install dependencies and start the app:
 
 ```
 npm install
