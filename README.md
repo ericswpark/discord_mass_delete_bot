@@ -2,14 +2,6 @@
 
 Bot to delete messages in given channel
 
-## Why?
-
-*"Can't you just delete the channel you want to clear out, and then recreate it?"*
-
-You could, of course, delete your Discord channel and then recreate it. But this would mean lost permissions and what not. Also, what if you want to selectively delete older messages? This bot aims to fill that need.
-
-Note that selectively deleting older messages is not available yet. I'm working on it.
-
 ## Usage
 
  - Obtain a bot API key and a client ID key
