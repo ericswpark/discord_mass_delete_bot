@@ -25,10 +25,11 @@ Why full admin permissions? I didn't have time to properly narrow down which per
 }
 ```
 
- - Start the app using
+ - Instaqll dependencies and start the app:
 
 ```
-node bot.js
+npm install
+npm start
 ```
 
  - Tell the bot to nuke everything with `!deleteall` and watch the messages disappear! The typing indicator comes on to show that the bot is working.
